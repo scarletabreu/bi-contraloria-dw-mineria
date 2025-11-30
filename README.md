@@ -1,6 +1,6 @@
 # BI-Contraloria-DW-Mineria
 
-Proyecto Final de Inteligencia de Negocios (ICC-321-T) - Pontificia Universidad Católica Madre y Maestra (PUCMM).  
+Proyecto Final de Inteligencia de Negocios (ICC-321) - Pontificia Universidad Católica Madre y Maestra (PUCMM).  
 
 Modelo de minería de datos descriptiva basado en datos públicos de nómina y actividades institucionales de la Contraloría General de la República Dominicana (2018-2025).
 
