@@ -2,13 +2,13 @@
 
 Proyecto Final de Inteligencia de Negocios (ICC-321) - Pontificia Universidad Católica Madre y Maestra (PUCMM).  
 
-Modelo de minería de datos descriptiva basado en datos públicos de nómina y actividades institucionales de la Contraloría General de la República Dominicana (2018-2025).
+Modelo de minería de datos descriptiva basado en datos públicos de nómina y actividades institucionales de la Contraloría General de la República Dominicana en el 2021.
 
 ## 📋 Descripción del Proyecto
 Este repositorio contiene un modelo simplificado de minería de datos descriptiva para segmentar empleados de la Contraloría General. Incluye:
 - **Modelo de Minería de Datos**: Clustering (K-means) para identificar grupos naturales de empleados por sueldo, estatus, función y departamento.
 - **Objetivos**:
-  - Analizar patrones en nómina para detectar ineficiencias o inequidades salariales.
+  - Encontrar grupos de empleados de la Contraloría General de la República Dominicana, según su edad y salario.
   - Proporcionar insights accionables para la toma de decisiones en la Contraloría.
 
 Datos fuente: Portal de Transparencia de la República Dominicana (nómina-de-empleados-2018-2025). El ETL se realizó previamente; aquí se enfoca en el análisis.
